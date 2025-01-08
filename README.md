@@ -1,6 +1,6 @@
 <!-- Header Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="600" alt="Data Engineer at Work">
+  <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="300" alt="Data Engineer at Work">
 </p>
 
 <h1 align="center">Hey there! I'm Abhinav Tiwari 👋</h1>
