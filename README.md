@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="600" alt="Data Engineer at Work">
 </p>
 
-<h1 align="center">Hey there! I'm [Your Name] 👋</h1>
+<h1 align="center">Hey there! I'm Abhinav Tiwari 👋</h1>
 
 <p align="center">
   🚀 Data Engineer | 🧩 Problem Solver | 🛠️ Tech Enthusiast
